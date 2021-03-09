@@ -1,4 +1,4 @@
-# flutter_intro_slider_example
+# Flutter Intro Slider Example
 
 A new Flutter application.
 
