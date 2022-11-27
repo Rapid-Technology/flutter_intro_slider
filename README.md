@@ -1,6 +1,6 @@
-# Flutter Intro Slider Example
+# Flutter Intro Slider
 
-A new Flutter application.
+[![IMAGE ALT TEXT HERE](https://i.ytimg.com/vi/lvjsh6MX55U/maxresdefault.jpg)](https://www.youtube.com/watch?v=lvjsh6MX55U)
 
 ## Getting Started
 
